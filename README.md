@@ -4,8 +4,10 @@
 
 - 🌱 I’m currently learning the MERN stack.
 
-- 💞️ I’m looking to collaborate on creative and off the wall projects. Once employed, we have limits to our 
-     creativity, so during my free time I would Like to let the creativit flow!
+- 💞️ I’m looking to collaborate on any kind of project really! I know that sounds vague, but it's interesting 
+     for me to see how others work through their development process. Working with others that have a different 
+     approach, to me, is a valuable learning experience.
+
 - 📫 How to reach me: https://johnalva.me/
 
 - ⭐️ My favorite pokémon is Slowpoke.
